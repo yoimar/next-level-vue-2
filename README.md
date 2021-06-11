@@ -1,4 +1,4 @@
-# Course of Next Level 2 
+# Course of Next Level Vue 2 
 
 [Next Level 2 Here](https://www.vuemastery.com/courses/next-level-vue/)
 
